@@ -1,0 +1,17 @@
+body{
+    background-image: url("bg.jpg");
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a1{
+    background-color: white;
+    margin: 22px;
+}
+.a2{
+    background-color: rgb(1, 9, 24);
+}
+.A{
+    background-color: darkred;
+}
+.h{
+    background-color: rgb(228, 19, 19);
+}
